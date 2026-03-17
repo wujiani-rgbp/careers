@@ -28,31 +28,20 @@ An AI-powered tarot and spiritual wellness app for modern seekers. WooMoo goes b
 
 ## Open Positions
 
-### Engineering
+### 🔧 Engineering
 
-| Role | Team | Location | Type |
-|------|------|----------|------|
-| **AI/ML Engineer** | WayShot (Photo) | Beijing / Remote | Full-time |
-| **iOS Developer** | WayShot (Photo) | Beijing | Full-time |
-| **Backend Engineer** | Platform | Beijing / Remote | Full-time |
-| **Full-stack Developer** | WooMoo (Bloom) | Beijing / Remote | Full-time |
+| Role | Location | Type |
+|------|----------|------|
+| **Senior Algorithm Engineer (Computer Vision & Speech)** | Beijing | Full-time |
+| **Java Developer** | Beijing | Full-time |
+| **Flutter Developer** | Beijing | Full-time |
 
-### Design & Content
+### 📈 Marketing & Growth
 
-| Role | Team | Location | Type |
-|------|------|----------|------|
-| **Product Designer** | WayShot (Photo) | Beijing | Full-time |
-| **Product Designer (Intern)** | WayShot (Photo) | Beijing | Intern |
-| **Video Editor** | WooMoo (Bloom) | Beijing | Full-time |
-| **Video Editor (Intern)** | WooMoo (Bloom) | Beijing | Intern |
-
-### Marketing & Growth
-
-| Role | Team | Location | Type |
-|------|------|----------|------|
-| **Overseas Social Media Manager** | WooMoo (Bloom) | Beijing / Remote | Full-time |
-| **Social Media Intern** | WooMoo (Bloom) | Beijing | Intern |
-| **Growth/Ads Specialist** | WooMoo (Bloom) | Beijing | Full-time |
+| Role | Location | Type |
+|------|----------|------|
+| **Head of Overseas Growth** | Beijing | Full-time |
+| **Overseas Social Media & Growth Manager** | Beijing | Full-time |
 
 ---
 
