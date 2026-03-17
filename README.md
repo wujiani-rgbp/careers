@@ -2,7 +2,7 @@
 
 > **We're building AI-powered products that reimagine creativity and wellness.**
 
-Romangic is a Shenzhen-based startup with two product lines serving global users:
+Romangic is a Beijing-based startup with two product lines serving global users:
 
 ## Our Products
 
@@ -20,27 +20,27 @@ An AI-powered tarot and spiritual wellness app for modern seekers. WooMoo goes b
 
 | Role | Team | Location | Type |
 |------|------|----------|------|
-| **AI/ML Engineer** | WayShot (Photo) | Shenzhen / Remote | Full-time |
-| **iOS Developer** | WayShot (Photo) | Shenzhen | Full-time |
-| **Backend Engineer** | Platform | Shenzhen / Remote | Full-time |
-| **Full-stack Developer** | WooMoo (Bloom) | Shenzhen / Remote | Full-time |
+| **AI/ML Engineer** | WayShot (Photo) | Beijing / Remote | Full-time |
+| **iOS Developer** | WayShot (Photo) | Beijing | Full-time |
+| **Backend Engineer** | Platform | Beijing / Remote | Full-time |
+| **Full-stack Developer** | WooMoo (Bloom) | Beijing / Remote | Full-time |
 
 ### Design & Content
 
 | Role | Team | Location | Type |
 |------|------|----------|------|
-| **Product Designer** | WayShot (Photo) | Shenzhen | Full-time |
-| **Product Designer (Intern)** | WayShot (Photo) | Shenzhen | Intern |
-| **Video Editor** | WooMoo (Bloom) | Shenzhen | Full-time |
-| **Video Editor (Intern)** | WooMoo (Bloom) | Shenzhen | Intern |
+| **Product Designer** | WayShot (Photo) | Beijing | Full-time |
+| **Product Designer (Intern)** | WayShot (Photo) | Beijing | Intern |
+| **Video Editor** | WooMoo (Bloom) | Beijing | Full-time |
+| **Video Editor (Intern)** | WooMoo (Bloom) | Beijing | Intern |
 
 ### Marketing & Growth
 
 | Role | Team | Location | Type |
 |------|------|----------|------|
-| **Overseas Social Media Manager** | WooMoo (Bloom) | Shenzhen / Remote | Full-time |
-| **Social Media Intern** | WooMoo (Bloom) | Shenzhen | Intern |
-| **Growth/Ads Specialist** | WooMoo (Bloom) | Shenzhen | Full-time |
+| **Overseas Social Media Manager** | WooMoo (Bloom) | Beijing / Remote | Full-time |
+| **Social Media Intern** | WooMoo (Bloom) | Beijing | Intern |
+| **Growth/Ads Specialist** | WooMoo (Bloom) | Beijing | Full-time |
 
 ---
 
