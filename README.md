@@ -43,6 +43,8 @@ An AI-powered tarot and spiritual wellness app for modern seekers. WooMoo goes b
 | **Head of Overseas Growth** | Beijing | Full-time |
 | **Overseas Social Media & Growth Manager** | Beijing | Full-time |
 
+> 📌 **Marketing & Growth roles require:** Overseas market experience + 0-to-1 app product experience.
+
 ---
 
 ## Our Culture
